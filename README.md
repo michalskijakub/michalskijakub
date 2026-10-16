@@ -103,10 +103,6 @@
   <img src="https://img.shields.io/badge/NPM_%2F_Yarn-1E293B?style=for-the-badge&logo=npm&logoColor=CB3837" height="36" alt="NPM / Yarn" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=2496ED" height="36" alt="Docker" />&nbsp;
   <img src="https://img.shields.io/badge/Figma-1E293B?style=for-the-badge&logo=figma&logoColor=F24E1E" height="36" alt="Figma" />
-</p>
-
-### 📱 Dev Tools
-<p align="left">
   <img src="https://img.shields.io/badge/Android_Studio-1E293B?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" height="36" alt="Android Studio" />&nbsp;
   <img src="https://img.shields.io/badge/Xcode-1E293B?style=for-the-badge&logo=xcode&logoColor=147EFB" height="36" alt="Xcode" />
 </p>
