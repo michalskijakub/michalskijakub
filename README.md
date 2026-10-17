@@ -1,5 +1,9 @@
 <div align="center">
 
+  <!-- HERO WORKSPACE BANNER -->
+  <img src="./banner.jpg" alt="Jakub Michalski - Workspace Banner" width="100%" style="border-radius: 12px;" />
+  <br/><br/>
+
   <!-- RELIABLE ANIMATED HEADER BANNER -->
   <a href="https://github.com/michalskijakub">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&duration=4000&pause=5000&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=90&lines=Jakub+Michalski" alt="Jakub Michalski" />
